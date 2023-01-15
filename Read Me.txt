@@ -22,13 +22,3 @@ Stand Alone:
 
   * Case the entered value is a Word:
     The tool will write out all of the anagrams of that provided word.
-
-
-
- Designing:
-- First thing is consedr using MapReduce model 
-- Base64 streams designed to use less memory better than streaming the whole content in the memory 
-- memory paging 
-- moving away from lists and using IEnumerables instead. 
-  This reduces memory usage because it means that all the processing and filtering of the data can happen without ever needing to collect all of the data at once.
- - More efficent GC and using blocks 
