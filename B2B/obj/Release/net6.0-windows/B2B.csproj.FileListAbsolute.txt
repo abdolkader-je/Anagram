@@ -1,0 +1,17 @@
+C:\Users\Mohammed\Desktop\B2B\B2B\bin\Release\net6.0-windows\B2B.exe
+C:\Users\Mohammed\Desktop\B2B\B2B\bin\Release\net6.0-windows\B2B.deps.json
+C:\Users\Mohammed\Desktop\B2B\B2B\bin\Release\net6.0-windows\B2B.runtimeconfig.json
+C:\Users\Mohammed\Desktop\B2B\B2B\bin\Release\net6.0-windows\B2B.dll
+C:\Users\Mohammed\Desktop\B2B\B2B\bin\Release\net6.0-windows\B2B.pdb
+C:\Users\Mohammed\Desktop\B2B\B2B\obj\Release\net6.0-windows\B2B.csproj.AssemblyReference.cache
+C:\Users\Mohammed\Desktop\B2B\B2B\obj\Release\net6.0-windows\B2B.MainForm.resources
+C:\Users\Mohammed\Desktop\B2B\B2B\obj\Release\net6.0-windows\B2B.csproj.GenerateResource.cache
+C:\Users\Mohammed\Desktop\B2B\B2B\obj\Release\net6.0-windows\B2B.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohammed\Desktop\B2B\B2B\obj\Release\net6.0-windows\B2B.AssemblyInfoInputs.cache
+C:\Users\Mohammed\Desktop\B2B\B2B\obj\Release\net6.0-windows\B2B.AssemblyInfo.cs
+C:\Users\Mohammed\Desktop\B2B\B2B\obj\Release\net6.0-windows\B2B.csproj.CoreCompileInputs.cache
+C:\Users\Mohammed\Desktop\B2B\B2B\obj\Release\net6.0-windows\B2B.dll
+C:\Users\Mohammed\Desktop\B2B\B2B\obj\Release\net6.0-windows\refint\B2B.dll
+C:\Users\Mohammed\Desktop\B2B\B2B\obj\Release\net6.0-windows\B2B.pdb
+C:\Users\Mohammed\Desktop\B2B\B2B\obj\Release\net6.0-windows\B2B.genruntimeconfig.cache
+C:\Users\Mohammed\Desktop\B2B\B2B\obj\Release\net6.0-windows\ref\B2B.dll

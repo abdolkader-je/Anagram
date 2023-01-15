@@ -1,0 +1,34 @@
+Stand Alone:
+ -To test the tool open (/Stand Alone) folder and run the 'B2B-Stand Alone' exutable file
+ -Sample of input text file is provided with the stand alone
+ -Output file will be generated in same folder (/Stand Alone) 
+
+
+- Part 1 File
+ 
+* User can either use open file select button or copy and paste the file path
+  on the spicific file path field  
+* Click on 'Get All Anagrams' button and the tool will write all words
+  in the input file which are anagrams of other words in the input file to a different output file 
+* Input and output files will open automatically for the user to see the results
+
+
+
+- Part 2 Input field:
+
+  The user will enter a number or a word and click on 'Proceed' button,
+  * Case the entered value is a number:
+    the user will see whether that number is a factorial of any numbers in the input file or not.
+
+  * Case the entered value is a Word:
+    The tool will write out all of the anagrams of that provided word.
+
+
+
+ Designing:
+- First thing is consedr using MapReduce model 
+- Base64 streams designed to use less memory better than streaming the whole content in the memory 
+- memory paging 
+- moving away from lists and using IEnumerables instead. 
+  This reduces memory usage because it means that all the processing and filtering of the data can happen without ever needing to collect all of the data at once.
+ - More efficent GC and using blocks 
